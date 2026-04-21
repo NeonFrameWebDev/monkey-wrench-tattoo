@@ -1,0 +1,13 @@
+{
+  "name": "Monkey Wrench Tattoo Co.",
+  "short_name": "Monkey Wrench",
+  "description": "Tattoos. Piercings. Good Times. An appointment-only tattoo and piercing shop at 913 Main Street, Stevens Point WI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#C73E3A",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
